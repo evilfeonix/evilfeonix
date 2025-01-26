@@ -45,4 +45,5 @@ I'm a curious student with a passion for exploring the world of ethical hacking 
 ### 🔗 Motto
 “Rise like a phoenix, leave no trace but fire.”
 
-👨‍💻 Open to collaboration and guidance as I grow in the cybersecurity and hacking space. Feel free to connect or share resources—let's learn and evolve together!
+<div align='center'>
+👨‍💻 Open to collaboration and guidance as I grow in the cybersecurity and hacking space. Feel free to connect or share resources—let's learn and evolve together!</div>
