@@ -4,11 +4,12 @@ github: [evilfeonix]
 # patreon: evilfeonix
 open_collective: evilfeonix-project
 ko_fi: evilfeonix
-tidelift: npm/evilfeonix-library
+# tidelift: npm/evilfeonix-library
 # community_bridge: evilfeonix-cloud
 liberapay: evilfeonix
 # issuehunt: evilfeonix
 # lfx_crowdfunding: evilfeonix-infra
+lfx_crowdfunding: evilfeonix
 # polar: evilfeonix
 buy_me_a_coffee: https://buymeacoffee.com/evilfeonix
 thanks_dev: evilfeonix
